@@ -1,4 +1,4 @@
-var clickSound = new Audio('mouseClick.wav');
+var clickSound = new Audio('mouse.wav');
 var correctSound = new Audio('correct.wav');
 var wrongSound = new Audio('wrong2.mp3');
 
